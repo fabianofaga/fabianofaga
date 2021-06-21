@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on BRConnect Telecomunicações...
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C#, SQL,...
+- 👯 I’m looking to collaborate on 
+-     https://github.com/incubatecbr/imoveltech-app
+-     https://github.com/incubatecbr/gerador-persona-app
+-     https://github.com/incubatecbr/imoveltech-server
+-     https://github.com/incubatecbr/incubatec-nfse
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: @fabianoFaga
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
+
 <!--
 **fabianofaga/fabianofaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
