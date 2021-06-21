@@ -5,10 +5,7 @@
 - 🔭 I’m currently working on [BRConnect](http://brconnect.net)
 
 - 👯 I’m looking to collaborate on 
--    https://github.com/incubatecbr/imoveltech-app
--    https://github.com/incubatecbr/gerador-persona-app
--    https://github.com/incubatecbr/imoveltech-server
--    https://github.com/incubatecbr/incubatec-nfse
+-    https://github.com/fabianofaga?tab=repositories
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C#, SQL,...
 
